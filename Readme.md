@@ -1,0 +1,1 @@
+Social networking web application with Spring Boot and React Js

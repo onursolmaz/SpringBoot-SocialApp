@@ -1,0 +1,29 @@
+{
+  "groups": [
+    {
+      "name": "",
+      "type": "socialapp.Configuration.AppConfiguration",
+      "sourceType": "socialapp.Configuration.AppConfiguration"
+    }
+  ],
+  "properties": [
+    {
+      "name": "attachment-storage",
+      "type": "java.lang.String",
+      "sourceType": "socialapp.Configuration.AppConfiguration",
+      "defaultValue": "attachments"
+    },
+    {
+      "name": "profile-storage",
+      "type": "java.lang.String",
+      "sourceType": "socialapp.Configuration.AppConfiguration",
+      "defaultValue": "profile"
+    },
+    {
+      "name": "upload-path",
+      "type": "java.lang.String",
+      "sourceType": "socialapp.Configuration.AppConfiguration"
+    }
+  ],
+  "hints": []
+}
